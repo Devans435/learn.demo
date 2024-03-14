@@ -2,4 +2,4 @@
 first github repository
 <br>
 author - Devansh
-experience
+education B.tech CSE
